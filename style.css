@@ -1,0 +1,60 @@
+#header {
+
+}
+
+#header div{
+    display:inline;
+    position: relative;
+}
+
+#header .header-left{
+    left: 5%;
+}
+
+#header .header-right{
+    left: 75%;
+}
+
+#main {
+    position: relative;
+    top: 40px;
+    left: 28%;
+    color: blue;
+    height: 250px;
+    width: 650px;
+}
+
+#main img {
+    position: relative; 
+    top: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#main form{
+    position: relative;
+    top: 10%;
+    height: 120px;
+}
+
+#main form input{
+    position: relative;
+    left: 10%;
+    width: 80%;
+}
+
+#main form div{
+    position: relative;
+    top: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align:center;
+}
+
+/*.button-container button{
+
+} */
